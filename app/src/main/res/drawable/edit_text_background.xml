@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/edit_text_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/transparent"/>
+    <corners android:radius="50px"/> <!-- Définit le rayon de la bordure arrondie -->
+    <stroke
+        android:width="2dp"
+    android:color="#0000ff"/>
+</shape>
